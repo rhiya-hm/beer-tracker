@@ -1,4 +1,4 @@
-# Beer Tracker
+# Pintfolio
 
 Log every beer you've tried — ratings, styles, tasting notes, and more.
 
