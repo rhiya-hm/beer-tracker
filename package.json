@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "ios": "npm run ios --prefix mobile",
+    "mobile": "npm run start --prefix mobile",
+    "mobile:install": "npm install --prefix mobile"
   },
   "dependencies": {
     "next": "16.2.6",

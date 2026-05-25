@@ -27,12 +27,13 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## iOS app
 
 ```bash
-cd mobile
-npm install
-npm start
+npm run mobile:install   # first time only
+npm run mobile           # Expo dev server → scan QR with Expo Go
 ```
 
-Scan the QR code with **Expo Go** on your iPhone, or run `npm run ios` in the simulator. Full details: [mobile/README.md](./mobile/README.md).
+Or from `mobile/`: `npm install` then `npm start`.
+
+`npm run ios` from the repo root opens the iOS Simulator (requires full Xcode). On a physical iPhone, use `npm run mobile` instead. See [mobile/README.md](./mobile/README.md).
 
 ## Build for production
 
