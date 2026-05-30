@@ -107,7 +107,7 @@ export function BeerTracker() {
               Personal log
             </p>
             <h1 className="text-4xl font-bold tracking-tight text-amber-50">
-              Beer Tracker
+              Pintfolio
             </h1>
             <p className="mt-2 max-w-md text-stone-400">
               Keep a record of every beer you try — ratings, notes, and all.

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Beer Tracker",
+  title: "Pintfolio | Track your beer journey",
   description: "Track every beer you've tried — ratings, notes, and more.",
 };
 

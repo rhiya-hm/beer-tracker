@@ -1,4 +1,4 @@
-# Beer Tracker (iOS)
+# Pintfolio (iOS)
 
 Native mobile app for logging beers you've tried. Built with [Expo](https://expo.dev) and React Native.
 

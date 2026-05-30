@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Beer Tracker",
-    "slug": "beer-tracker",
+    "name": "Pintfolio",
+    "slug": "Pintfolio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,14 +13,14 @@
       "backgroundColor": "#0c0a09"
     },
     "ios": {
-      "bundleIdentifier": "com.beertracker.app",
+      "bundleIdentifier": "com.pintfolio.app",
       "supportsTablet": false,
       "infoPlist": {
         "UISupportedInterfaceOrientations": ["UIInterfaceOrientationPortrait"]
       }
     },
     "android": {
-      "package": "com.beertracker.app",
+      "package": "com.pintfolio.app",
       "adaptiveIcon": {
         "backgroundColor": "#0c0a09",
         "foregroundImage": "./assets/android-icon-foreground.png",

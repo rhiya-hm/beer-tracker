@@ -129,7 +129,7 @@ export default function HomeScreen() {
           <>
             <View style={styles.header}>
               <Text style={styles.eyebrow}>Personal log</Text>
-              <Text style={styles.title}>Beer Tracker</Text>
+              <Text style={styles.title}>Pintfolio</Text>
               <Text style={styles.subtitle}>
                 Every beer you try, in your pocket.
               </Text>
